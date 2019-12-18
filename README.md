@@ -1,4 +1,4 @@
-# Dating-Soyboys
+# Dating-Soyboys: Women's View of Veg* Men in Romantic Relationships
 
 ## Abstract
 
