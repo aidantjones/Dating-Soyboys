@@ -26,4 +26,4 @@ all individuals regardless of gender identity.
 
 ## GitHub Integration Intention
 
-This is a repo for my undergraduate thesis _Dating Soyboys: Women's View of Veg* Men in Romantic Relationships_. This GitHub integration introduces easy, accessible version control for the document. It also allows for public comments on the research.
+This is a repo for my undergraduate thesis _Dating Soyboys: Women's View of Veg* Men in Romantic Relationships_. GitHub integration introduces easy, accessible version control for the document, allows for public comments on the research, and provides possibilities for [further integration](https://www.aijo.info/2019/12/21/pglt-workflow/).
